@@ -6,7 +6,7 @@ This repository contains blog posts and professional articles from IBM cloud com
 
 ### Blog Posts
 
-- **[OpenStack release 'Folsom', first thoughts](./OpenStack_Folsom_Release.md)** - October 24, 2012
+- **[OpenStack release 'Folsom', first thoughts](./IBM%20Blog%20Post%20-%20October%2024%202012%20-%20OpenStack%20Folsom.md)** - October 24, 2012
   - Author: Marco Celon
   - A comprehensive overview of the OpenStack Folsom release, including new projects (Quantum and Cinder), architectural changes, and IBM's contributions to the project.
 
