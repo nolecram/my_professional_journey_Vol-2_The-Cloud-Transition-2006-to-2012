@@ -10,12 +10,17 @@ This repository contains blog posts and professional articles from IBM cloud com
   - Author: Marco Celon
   - A comprehensive overview of the OpenStack Folsom release, including new projects (Quantum and Cinder), architectural changes, and IBM's contributions to the project.
 
+- **[High Availability in the Cloud: An OpenStack Approach](./IBM%20Blog%20Post%20-%20April%202%202013%20-%20High%20Availability%20in%20the%20Cloud.md)** - April 2, 2013
+  - Author: Marco Celon
+  - An exploration of high availability solutions in OpenStack, covering platform services, Pacemaker/DRBD integration, and enterprise adoption considerations.
+
 ## Assets
 
 The `assets` folder contains images referenced in the blog posts:
 
 - `thoughts-on-cloud-banner.png` - Thoughts on Cloud header image
 - `openstack-folsom-architecture.png` - OpenStack Folsom architecture diagram
+- `openstack-ha-architecture.jpg` - OpenStack HA architecture diagram
 - `marco-celon-photo.jpg` - Author photo
 
 ## About
