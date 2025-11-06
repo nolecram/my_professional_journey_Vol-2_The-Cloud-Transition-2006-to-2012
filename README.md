@@ -4,11 +4,19 @@
 
 Fifteen years have passed since those IBM days ended, and in the relentless pace of technology, that's nearly a century. The proprietary platforms that once defined enterprise infrastructure—Tivoli, SmartCloud, the certifications and frameworks we built our careers around—have given way to open standards, cloud-native architectures, and containerization. The world has moved on, and yet.
 
-This repository is a walk down memory lane, a pause to reflect on a transformative chapter that shaped how I see technology, leadership, and the power of global collaboration. IBM during the 2000s-2010s wasn't just an employer; it was a masterclass in how organizations invest in their people, how mentors change trajectories, and how diverse teams across continents can build meaningful things together.
+### The Technical Context of That Era
 
-If you were there during those Tivoli and System Management years—if you remember the EMEA regional meetings, the OpenStack community enthusiasm, the shift from on-premise to cloud—then perhaps this is a welcome splash back into that era. This isn't a résumé or a portfolio. It's a **thank you note** to a company, a team, and a time that proved invaluable. IBM navigated its own challenges in recent years, struggling to adapt as quickly as the market demanded, but the foundation it gave to countless professionals remains.
+When this journey began in 2006-2012, enterprise IT operated in a fundamentally different landscape. On-premise infrastructure and proprietary software dominated: systems were managed through vendor-specific tools, virtualization was still finding its footing with proprietary hypervisors, and networking was largely locked into closed vendor ecosystems. The transition to cloud computing was just beginning—debated, experimental, not yet inevitable. Open-source was gaining momentum, but proprietary solutions still controlled enterprise operations.
 
-This is shared in gratitude for that transformative journey.
+Today, that world has transformed almost completely. Microservices, Kubernetes, serverless computing, and everything-as-a-service have become standard practice. Open-source has won decisively across infrastructure, platforms, and tools. APIs connect everything. Artificial intelligence now shapes every architectural decision. The cloud is no longer a novelty but the default assumption.
+
+Yet looking back, the *principles* learned during those Tivoli and System Management years remain surprisingly relevant. Understanding service management, IT governance, capacity planning, integration patterns, and operational excellence—these concepts transcended the specific technologies. The frameworks we studied for enterprise IT infrastructure apply equally to modern cloud operations, just implemented through Kubernetes and containerization rather than proprietary hypervisors. What changed was the *how*, not fundamentally the *why*.
+
+This repository is a walk down memory lane into a specific technological moment—one where proprietary software and on-premise infrastructure still felt permanent, where the cloud revolution was unfolding in real time, and where the transition from tightly-coupled systems to distributed architectures was just beginning. It captures the gratitude for learning those principles in an era before they became implicit assumptions.
+
+If you were there during those Tivoli and System Management years—if you remember the EMEA regional meetings, the OpenStack community enthusiasm, the shift from on-premise to cloud—then perhaps this is a welcome splash back into that era. You'll recognize the concepts even though the technologies evolved. This isn't a résumé or a portfolio. It's a **thank you note** to a company, a team, and a time that proved foundational. IBM navigated its own challenges in recent years, struggling to adapt as quickly as the market demanded, but the education and mentorship provided during this period remains enduring.
+
+This is shared in gratitude for that transformative journey, and in recognition that even as technology transforms completely, the lessons learned during those years still echo forward.
 
 ---
 
