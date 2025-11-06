@@ -422,19 +422,4 @@ This documentation serves as grateful recognition of that investment and the glo
 
 ---
 
-## Reflections on the Journey
-
-This timeline represents far more than dates and certifications. Each entry marks moments of growth made possible by:
-
-- **Mentors and managers** who believed in potential and created opportunities for advancement
-- **Colleagues across three continents** who shared knowledge, collaborated on projects, and built lasting professional relationships
-- **Customers in diverse markets** who trusted expertise and provided real-world challenges that accelerated learning
-- **IBM's investment** in continuous education, international mobility, and professional development
-
-The journey from Italy through Dubai to Australia wasn't just geographic—it was a transformation enabled by an organization that valued people, encouraged curiosity, and supported international career development. The certifications, courses, and publications documented here are artifacts of that investment and the collaborative spirit of the global IBM community.
-
-To everyone who contributed to this journey: your impact extends far beyond what any timeline can capture.
-
----
-
 *This timeline documents professional development activities, certifications, and technical contributions during IBM tenure from October 2006 through December 2012—a period of extraordinary growth, learning, and international collaboration.*

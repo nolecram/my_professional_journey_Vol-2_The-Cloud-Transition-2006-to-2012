@@ -55,58 +55,7 @@ Documentation of IBM Technical Sales Professional certifications achieved 2008-2
 
 ## About IBM Technical Sales Professional Certifications
 
-The IBM Technical Sales Professional certification program was designed to recognize sales professionals who demonstrated comprehensive product knowledge and the ability to effectively position and sell IBM software solutions.
-
-### Key Characteristics
-
-- **Product Expertise:** Deep understanding of product features, capabilities, and competitive positioning
-- **Sales Methodology:** Mastery of IBM's sales techniques and value-based selling approaches
-- **Industry Knowledge:** Understanding of industry-specific challenges and how IBM solutions address them
-- **Solution Selling:** Ability to articulate business value and ROI to customers
-- **Competitive Intelligence:** Knowledge of competitive landscape and differentiation strategies
-
-### Certification Process
-
-Each Sales Professional certification typically required:
-
-1. Completion of product-specific training modules
-2. Demonstration of sales scenario expertise
-3. Passing rigorous technical and sales assessments
-4. Understanding of licensing, pricing, and support models
-5. Knowledge of integration points and ecosystem partnerships
-
-### Historical Context
-
-These sales certifications were particularly important during the 2008-2012 period when:
-
-- **Enterprise Software Complexity:** Solutions required technical sales expertise to navigate complex enterprise requirements
-- **Consultative Selling:** Shift from product-focused to solution-oriented sales approaches
-- **Multi-Product Solutions:** Customers sought integrated solutions spanning multiple product lines
-- **Industry Specialization:** Growing demand for industry-specific expertise and vertical solutions
-
-### Product Lines Covered
-
-**Tivoli Software**
-- Storage management and backup/recovery solutions
-- Security and identity management
-- Automation and orchestration for IT operations
-- Network and systems management
-
-**Information Management**
-- Database solutions (DB2, Informix)
-- Data warehousing and analytics (Netezza)
-- Enterprise content management
-- Master data management
-
-**Lotus Software**
-- Collaboration and messaging (Lotus Notes/Domino)
-- Social software and team productivity
-- Portal and web experience solutions
-
-**Industry Solutions**
-- Telecommunications-specific solutions
-- Energy and utilities sector solutions
-- Vertical market specializations
+The IBM Technical Sales Professional certification program recognized sales professionals who demonstrated comprehensive product knowledge and the ability to effectively position and sell IBM software solutions across Tivoli, Information Management, Lotus, and Industry Solutions product lines.
 
 ---
 
@@ -120,19 +69,6 @@ The 12 Technical Sales Professional certifications completed 2008-2012 cover:
 - **Sustained Commitment:** Four-year certification period averaging 3 certifications per year
 
 These sales certifications complemented technical certifications and professional development activities, combining technical expertise with customer-facing sales capabilities.
-
----
-
-## Context
-
-**Period:** February 2008 - March 2012  
-**Duration:** 4 years, 1 month  
-**Certification Rate:** 3 certifications per year (average)
-
-**Concurrent Professional Activities:**
-- IBM Tivoli integration projects (2009 Redbook co-authorship)
-- OpenStack community contributions (2012-2013 blog posts)
-- IBM cloud infrastructure initiatives
 
 ---
 

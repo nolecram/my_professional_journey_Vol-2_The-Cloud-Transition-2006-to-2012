@@ -182,45 +182,6 @@ The Master's program provided:
 
 ---
 
-## Program Context within IBM Journey
-
-### Timeline Integration
-
-The Master's program (2009-2011) occurred during the **IBM Italia period** (August 2006 - July 2010) and extended into the **IBM Middle East period** (August 2010 - February 2012), demonstrating:
-
-- **Commitment to Continuous Learning:** Pursuing advanced education while maintaining full-time IBM responsibilities
-- **Strategic Professional Development:** Aligning academic study with cloud computing and IT governance career trajectory
-- **Global Perspective:** Applying Italian academic training to international IBM roles across EMEA and MEA regions
-- **IBM Support:** Organization's encouragement of employee education and professional advancement
-
-### Complementary Certifications
-
-The Master's curriculum complemented concurrent IBM professional development:
-- **IBM IT Specialist Profession** (December 2009) - Professional recognition during Master's studies
-- **Cloud Computing Architecture certification** (May 2011) - Shortly after Master's completion
-- **Tivoli and SmartCloud certifications** - Technical depth supporting governance knowledge
-- **IT Service Management courses** - Alignment with ITSM components of Master's program
-
----
-
-## Legacy and Gratitude
-
-### Academic Appreciation
-
-This Master's program represents gratitude to:
-- **Università Roma Tre Faculty:** Professors who brought academic rigor and industry insight to complex IT governance topics
-- **IBM Italia Mentors:** Ing. Raffaele Bella and other IBM professionals who contributed expertise and guidance
-- **Formit Servizi:** Partnership in creating a world-class professional development program
-- **Fellow Students:** Peer learning and collaboration that enriched the educational experience
-
-### Enduring Value
-
-The knowledge and frameworks gained through this program continued to inform:
-- **IT Strategy Development:** Application of governance principles to cloud computing initiatives
-- **Service Management:** ITIL and ITSM practices in OpenStack and SmartCloud projects
-- **Architecture Decisions:** SOA principles applied to enterprise infrastructure design
-- **Leadership Approaches:** Strategic thinking developed through case studies and project work
-
 ---
 
 ## Program Information and Resources
@@ -237,14 +198,6 @@ The knowledge and frameworks gained through this program continued to inform:
 - **IBM Italia:** [http://www.ibm.com/it](http://www.ibm.com/it)
 - **Formit Servizi:** Industry training and professional development organization
 - **Roma Tre University:** [http://www.uniroma3.it](http://www.uniroma3.it)
-
----
-
-## Reflection
-
-This Master's program exemplified the collaborative spirit between academia and industry—a partnership that enriched both theoretical understanding and practical application. The experience of studying IT governance while simultaneously implementing enterprise systems at IBM created a unique synthesis of knowledge that informed years of subsequent work in cloud computing, infrastructure management, and technology leadership.
-
-The program stands as a testament to IBM Italia's investment in employee development and Università Roma Tre's commitment to producing industry-ready IT professionals. It represents not just an academic achievement, but a pivotal chapter in professional growth made possible by organizations that valued continuous learning and the mentors who supported that journey.
 
 ---
 
