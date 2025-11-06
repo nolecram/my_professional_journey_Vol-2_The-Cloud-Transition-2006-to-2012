@@ -148,6 +148,7 @@ The `assets` folder is organized into subdirectories for better organization:
 - `roma-tre-university-logo.png` - Università degli Studi Roma Tre logo
 - `roma-tre-itgov-logo.jpg` - Master in IT Governance program logo
 - `roma-tre-favicon.png` - Roma Tre University digital identity
+- `ibm-software-logo.png` - IBM Software logo
 - `thoughts-on-cloud-banner.png` - Thoughts on Cloud header image
 - `ibm-redbooks-banner.jpg` - IBM Redbooks header image
 

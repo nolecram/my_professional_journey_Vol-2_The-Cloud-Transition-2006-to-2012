@@ -1,5 +1,11 @@
 [← Back to README](../../README.md)
 
+<div align="center">
+
+![IBM Software Logo](../../assets/images/logos/ibm-software-logo.png)
+
+</div>
+
 Documentation of IBM Technical Sales Professional certifications achieved 2008-2012. These represented product training across IBM's software portfolio during that era. As IBM's portfolio evolved and the technology landscape shifted toward open platforms, these credentials became historical artifacts of a specific technological period.
 
 ---
