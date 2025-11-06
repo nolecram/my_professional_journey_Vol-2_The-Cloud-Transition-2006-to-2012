@@ -10,7 +10,7 @@ This documentation serves as grateful recognition of that investment and the glo
 
 ![IBM Employment Timeline](./assets/images/ibm-employment-timeline.png)
 
-*IBM Employment History: Rome, Italy (Aug 2006 - Jul 2010) | Dubai, UAE (Aug 2010 - Feb 2012) | Melbourne, Australia (Feb 2012 - Dec 2012)*
+*IBM Employment History: Italy (Aug 2006 - Jul 2010) | UAE (Aug 2010 - Feb 2012) | Australia (Feb 2012 - Dec 2012)*
 
 </div>
 
