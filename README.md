@@ -40,7 +40,7 @@ This repository documents professional activities, technical publications, and c
 
 ![IBM Professional Certifications Overview](./assets/images/certifications/ibm-professional-certifications-overview.png)
 
-*Professional growth and IBM's technology evolution walking side by side—from proprietary infrastructure to cloud computing*
+*Professional growth through proprietary infrastructure to cloud computing*
 
 </div>
 
