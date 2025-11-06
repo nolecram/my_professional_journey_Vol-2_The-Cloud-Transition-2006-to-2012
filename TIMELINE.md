@@ -126,6 +126,13 @@ This documentation serves as grateful recognition of that investment and the glo
 
 ## 2010
 
+### January 21, 2010
+**Academic Program Commenced**
+- **Master in IT Governance** (Governo dei Sistemi Informativi)
+- Second-level Master's program at Università degli Studi Roma Tre
+- Academic-industry partnership with IBM Italia and Formit Servizi
+- Focus: IT Governance, Service-Oriented Architecture, IT Service Management
+
 ### July 14, 2010
 **IBM Technical Sales Professional Certificates (2)**
 - Tivoli Automation Sales Professional v3
@@ -138,6 +145,13 @@ This documentation serves as grateful recognition of that investment and the glo
 ---
 
 ## 2011
+
+### April 15, 2011
+**Academic Achievement**
+- **Master in IT Governance** - Completion and Certification
+- Università degli Studi Roma Tre, Facoltà di Ingegneria
+- Master di II livello in Governo dei Sistemi Informativi
+- Final thesis integrating IT governance frameworks with enterprise practice
 
 ### May 12, 2011
 **IBM Certification**
