@@ -4,15 +4,18 @@ Documentation of IBM IT Specialist Profession Certification and The Open Group M
 
 ---
 
-## The IBM IT Specialist Profession
+## Certifications
 
-![IBM IT Specialist Profession Certificate](../../assets/images/certifications/ibm-it-specialist-profession-cert.jpg)
-
-*IBM Certified Professional - IT Specialist Profession (December 14, 2009)*
+| IBM IT Specialist Profession | The Open Group Master Certified IT Specialist |
+|---|---|
+| ![IBM IT Specialist Profession Certificate](../../assets/images/certifications/ibm-it-specialist-profession-cert.jpg) | ![The Open Group Master Certified IT Specialist](../../assets/images/certifications/open-group-master-it-specialist-cert.jpg) |
+| *IBM Certified Professional - IT Specialist Profession (December 14, 2009)* | *The Open Group Master Certified IT Specialist (Registration 65752)* |
 
 ---
 
-## What is the IBM IT Specialist Profession Certification?
+## The IBM IT Specialist Profession
+
+### What is the IBM IT Specialist Profession Certification?
 
 The **IBM IT Specialist Profession** was a certification framework introduced by IBM in the mid-2000s as part of the company's professional development structure. This certification represented recognition of expertise across technical and business domains within IBM's ecosystem at that time.
 
@@ -36,8 +39,6 @@ To achieve the IBM IT Specialist Profession certification, candidates typically 
 ---
 
 ## The Open Group Master Certified IT Specialist
-
-In conjunction with the IBM IT Specialist Profession, **The Open Group Master Certified IT Specialist** designation was also earned on December 14, 2009.
 
 ### About The Open Group Certification
 
