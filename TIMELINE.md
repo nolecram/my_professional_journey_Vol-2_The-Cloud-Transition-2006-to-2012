@@ -388,9 +388,8 @@ This documentation serves as grateful recognition of that investment and the glo
 
 ## Geographic Context
 
-**IBM Italia S.p.A, Segrate (Milan), Italy (August 2006 - July 2010)**
+**IBM Italia S.p.A, Rome, Italy (August 2006 - July 2010)**
 - Initial IBM tenure location
-- Sede Legale: Circonvallazione Idroscalo, C.P. 137, 20090 Segrate
 - Focus on EMEA (Europe, Middle East, Africa) region
 - Italian language professional development courses:
   - La comunicazione interpersonale (Interpersonal Communication)
