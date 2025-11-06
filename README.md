@@ -14,6 +14,8 @@ To the mentors, teammates, and clients encountered throughout this international
 
 ---
 
+This repository documents professional activities, technical publications, and certification achievements from IBM enterprise infrastructure and cloud computing initiatives during 2006-2012.
+
 <div align="center">
 
 ![IBM Professional Certifications Overview](./assets/images/ibm-professional-certifications-overview.png)
@@ -97,13 +99,17 @@ The `assets` folder is organized into subdirectories:
 
 ## About This Repository
 
-This archive documents:
+This collection preserves the professional journey through IBM across three continents and six transformative years (2006-2012). From IBM Italia in Milan, through IBM Middle East in Dubai, to IBM Australia in Sydney, each phase brought unique challenges, learning opportunities, and invaluable relationships.
+
+The repository includes:
 - **Academic Collaboration:** Master di II livello in IT Governance through IBM Italia and Università degli Studi Roma Tre partnership
 - **Technical Publications:** Blog posts and IBM Redbooks on enterprise infrastructure and cloud computing
 - **Professional Certifications:** 23 certifications across technical, sales, and professional domains
 - **Internal Development:** 35 courses spanning leadership, technology, and business skills
 - **OpenStack Contributions:** Community engagement during the emergence of open cloud platforms
-- **Geographic Scope:** Work across EMEA, Middle East, Africa, and Asia-Pacific regions
+- **International Experience:** Work across EMEA, Middle East, Africa, and Asia-Pacific regions
+
+This archive honors the colleagues who mentored, the customers who trusted, and the organization that invested in continuous growth. It stands as a testament to IBM's commitment to professional development and the global community that made this journey meaningful.
 
 ---
 
