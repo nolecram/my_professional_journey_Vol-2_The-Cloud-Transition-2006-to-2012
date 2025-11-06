@@ -22,7 +22,7 @@ This is shared in gratitude for that transformative journey, and in recognition 
 
 ## Introduction
 
-This repository chronicles a six-year IBM journey (2006-2012) spanning Rome, Italy → Dubai, UAE → Melbourne, Australia, encompassing professional growth, mentorship, and technical evolution during the transition from proprietary infrastructure to cloud computing.
+This repository chronicles a six-year professional journey with IBM spanning 2006 to 2012—a period of extraordinary growth, learning, and international experience across three continents. IBM provided exceptional opportunities for continuous skill development and professional advancement, enabling a career path that extended from Rome, Italy to Dubai, UAE, and ultimately to Melbourne, Australia.
 
 The journey represents more than certifications and technical achievements; it embodies the invaluable mentorship, collaboration, and knowledge-sharing that defined IBM's culture. Working alongside talented colleagues across Europe, the Middle East, Africa, and Asia-Pacific regions, and engaging with diverse clients worldwide, shaped both technical perspective and professional understanding in ways that proved timeless, even as the technologies themselves evolved beyond recognition.
 
