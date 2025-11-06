@@ -1,6 +1,6 @@
 [← Back to README](../../README.md)
 
-Documentation of IBM Technical Sales Professional certifications achieved 2008-2012, covering product knowledge and sales expertise across IBM's software portfolio including Tivoli, Lotus, Information Management, and Industry Solutions.
+Documentation of IBM Technical Sales Professional certifications achieved 2008-2012. These represented product training across IBM's software portfolio during that era. As IBM's portfolio evolved and the technology landscape shifted toward open platforms, these credentials became historical artifacts of a specific technological period.
 
 ---
 
@@ -55,20 +55,13 @@ Documentation of IBM Technical Sales Professional certifications achieved 2008-2
 
 ## About IBM Technical Sales Professional Certifications
 
-The IBM Technical Sales Professional certification program recognized sales professionals who demonstrated comprehensive product knowledge and the ability to effectively position and sell IBM software solutions across Tivoli, Information Management, Lotus, and Industry Solutions product lines.
+The IBM Technical Sales Professional certification program provided product training across Tivoli, Information Management, Lotus, and Industry Solutions product lines. These programs were part of IBM's professional development offerings during the 2008-2012 period.
 
 ---
 
-## Sales Certification Portfolio Analysis
+## Sales Certification Portfolio
 
-The 12 Technical Sales Professional certifications completed 2008-2012 cover:
-
-- **Product Breadth:** Multiple IBM software brands and product families (Tivoli, Information Management, Lotus, Industry Solutions)
-- **Progressive Development:** Advancement through multiple certification versions (v1, v2, v3)
-- **Industry Specialization:** Telecommunications and energy/utilities vertical solutions
-- **Sustained Commitment:** Four-year certification period averaging 3 certifications per year
-
-These sales certifications complemented technical certifications and professional development activities, combining technical expertise with customer-facing sales capabilities.
+The 12 Technical Sales Professional certifications completed 2008-2012 covered multiple IBM software brands and product lines over a four-year span. They represented participation in IBM's professional development training programs during that period.
 
 ---
 

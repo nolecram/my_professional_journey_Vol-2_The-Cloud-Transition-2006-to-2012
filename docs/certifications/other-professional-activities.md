@@ -1,6 +1,6 @@
 [← Back to README](../../README.md)
 
-Documentation of additional professional certifications, industry conferences, and external training activities completed during IBM tenure (2006-2011), complementing IBM's internal development programs with industry-recognized standards and community engagement.
+Documentation of external professional certifications and industry participation during IBM tenure (2006-2011). These activities complemented IBM's internal training with industry-standard frameworks and community engagement during that era.
 
 <div align="center">
 
@@ -155,19 +155,4 @@ These activities span the early years of IBM tenure (2006-2009), paralleling:
 
 ---
 
-## Integration with IBM Professional Development
-
-These external certifications complemented IBM's comprehensive internal development program:
-
-**IBM Internal Professional Development Courses:** 35 courses (2006-2013)  
-**IBM Professional Certifications:** 11 certifications (2008-2013)  
-**IBM Technical Sales Professional Certificates:** 12 certificates (2008-2012)  
-**IBM IT Specialist Profession:** 1 certification (2009)  
-**External Certifications:** 4 certifications (2006-2009)  
-**Industry Participation:** 2 conference/event participations (2006-2009)
-
-**Total Professional Development Activities:** 65+ documented activities
-
----
-
-*Documentation of external professional certifications and industry participation during IBM tenure, 2006-2009—complementing IBM's internal development programs with industry-standard frameworks and community engagement.*
+*Documentation of external professional certifications and industry participation during IBM tenure, 2006-2009.*

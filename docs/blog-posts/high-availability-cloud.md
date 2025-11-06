@@ -17,7 +17,7 @@
 
 ## High Availability in the Cloud: An OpenStack Approach
 
-Recently there has been a lot of discussion about the maturity of some areas of the [OpenStack project](http://www.openstack.org/projects/) (Gartner, Forrester). In the technical community one thread of this discussion was focusing on the test set about high availability (HA). High availability also has a number of other characteristics that need to be addressed (infrastructure, Applications). These requirement to produce a production-grade IT system or application against a failure of any node is not new by any standard, and has been addressed in many software products. Yet these software products are still incompletely seen to many users without many missing compatibility with many many incompatibilities with many many misunderstandings and has been addressed in many software products. Yet these software products are still incomplete and has been addressed in many software products. Yet these software products are still incomplete missing many many misunderstandings and has been addressed in many software products. Yet these software products are still incomplete. As a result, users need to complement the cloud deployments with HA constructs that exist outside the cloud.
+Recently there has been a lot of discussion about the maturity of some areas of the [OpenStack project](http://www.openstack.org/projects/) (Gartner, Forrester). In the technical community, one recurring thread focused on high availability (HA) capabilities and testing. High availability—ensuring production-grade systems remain available despite node failures—was not a new concept, having been addressed in many software products over decades. However, integrating HA patterns effectively across complex cloud platforms still posed practical challenges. As a result, organizations deploying OpenStack needed to complement platform capabilities with HA constructs, often drawing from proven infrastructure patterns outside the cloud.
 
 IBM has already articulated several studies and technical proposals for this topic, and I encourage you to read this [white paper](http://www.ibm.com/cloud/whitepaper) as well as to connect to this [developerWorks article](http://www.ibm.com/developerworks).
 
@@ -55,7 +55,7 @@ The request for HA functionalities is coming directly from the Enterprise adopte
 
 ![Marco Celon](../../assets/images/colleagues/marco-celon-photo.jpg)
 
-Marco is a solutions consultant at Cisco, based in Australia. He is a former IBM cloud delivery specialist (2006-2012) who worked across three regions during his IBM tenure: Italy (2006-2010), Dubai/Middle East (2010-2012), and Australia (2012).
+Marco is an IBM cloud delivery specialist based in Australia. During his IBM tenure (2006-2012), he worked across three regions: Italy (2006-2010), Dubai/Middle East (2010-2012), and Australia (2012), with involvement in cloud proposals for SW Europe, MEA, and APAC markets. He is currently engaged with private cloud implementations in the Australia/New Zealand region.
 
 ---
 

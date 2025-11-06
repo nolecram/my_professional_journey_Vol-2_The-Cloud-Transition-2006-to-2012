@@ -1,6 +1,6 @@
 [← Back to README](../../README.md)
 
-Documentation of IBM Professional Certifications completed during 2008-2013 across multiple technology and business domains.
+Documentation of IBM Professional Certifications completed during 2008-2013 across multiple technology domains. These certifications represent a snapshot of enterprise systems management and early cloud computing during that era. As technology has evolved dramatically over the past 15 years—with open-source platforms and cloud-native architectures becoming dominant—these credentials serve as historical documentation of a different technological landscape rather than current technical relevance.
 
 ## Certification Program Overview
 

@@ -1,6 +1,6 @@
 [← Back to README](../../README.md)
 
-Documentation of IBM Internal Professional Development Courses completed 2006-2013, covering strategic leadership, infrastructure management, cloud technologies, security, and business skills.
+Documentation of IBM Internal Professional Development Courses completed 2006-2013. These courses covered the technology landscape and learning priorities of that era—system management, infrastructure, early cloud computing, and business skills. As technology evolved over the past 15 years, many of these topics (Tivoli, SmartCloud, virtualization-centric thinking) have been superseded by container orchestration, serverless computing, and open-source platforms. This list serves as a snapshot of professional development during that period.
 
 ## Professional Development Certificates
 
@@ -62,21 +62,17 @@ Certificate documentation from IBM Internal Professional Development program:
 
 ## Summary
 
-Record of 35 IBM Internal Professional Development Courses across multiple domains:
+Record of 35 IBM Internal Professional Development Courses completed across multiple domains over 6+ years (October 2006 - March 2013).
 
-- **Strategic Leadership:** Strategy, Innovation, Technical Leadership Exchange, Team Leadership
-- **Infrastructure & Virtualization:** IT Infrastructure Library, Server Virtualization, Cloud Technologies, System Management
-- **Cloud & Enterprise Data:** SmartCloud Provisioning, Enterprise Data Management, Cloud Security, Data Interaction
-- **Professional Development:** Communication, Negotiation, Business Acumen, Measurements
-- **Compliance & Security:** Security Assessments, GTS SARM, IT Security, Certifications
-- **Business Skills:** Selling Goals, Business Measurements, Resourcing
-- **Mandatory Training:** Employee WHS, Manual Handling, Core Training Assessments
+**Course Areas Covered:**
+- Strategic Leadership
+- Infrastructure and Virtualization  
+- Cloud Technologies and Management
+- Professional Development and Skills
+- Compliance and Security
+- Business Skills
 
-**Period:** October 2006 - March 2013  
-**Duration:** 6 years, 5 months  
-**Total Courses:** 35
-
-These courses document continuous professional development in IT infrastructure, cloud computing, virtualization, and business leadership during IBM tenure.
+These courses documented the professional development path during IBM tenure, reflecting the technology priorities and learning focus of that era.
 
 ---
 

@@ -1,12 +1,24 @@
 # My IBM Professional Journey
 
+## Why This Repository
+
+Fifteen years have passed since those IBM days ended, and in the relentless pace of technology, that's nearly a century. The proprietary platforms that once defined enterprise infrastructure—Tivoli, SmartCloud, the certifications and frameworks we built our careers around—have given way to open standards, cloud-native architectures, and containerization. The world has moved on, and yet.
+
+This repository is a walk down memory lane, a pause to reflect on a transformative chapter that shaped how I see technology, leadership, and the power of global collaboration. IBM during the 2000s-2010s wasn't just an employer; it was a masterclass in how organizations invest in their people, how mentors change trajectories, and how diverse teams across continents can build meaningful things together.
+
+If you were there during those Tivoli and System Management years—if you remember the EMEA regional meetings, the OpenStack community enthusiasm, the shift from on-premise to cloud—then perhaps this is a welcome splash back into that era. This isn't a résumé or a portfolio. It's a **thank you note** to a company, a team, and a time that proved invaluable. IBM navigated its own challenges in recent years, struggling to adapt as quickly as the market demanded, but the foundation it gave to countless professionals remains.
+
+This is shared in gratitude for that transformative journey.
+
+---
+
 ## Introduction
 
-This repository chronicles a transformative professional journey with IBM spanning 2006 to 2012—a period of extraordinary growth, learning, and international experience across three continents. IBM provided exceptional opportunities for continuous skill development and professional advancement, enabling a career path that extended from Italy to Dubai and ultimately to Australia.
+This repository chronicles a six-year professional journey with IBM spanning 2006 to 2012—a period of extraordinary growth, learning, and international experience across three continents. IBM provided exceptional opportunities for continuous skill development and professional advancement, enabling a career path that extended from Italy to Dubai and ultimately to Australia.
 
-The journey represents more than certifications and technical achievements; it embodies the invaluable mentorship, collaboration, and knowledge-sharing that define IBM's culture. Working alongside talented colleagues across Europe, the Middle East, Africa, and Asia-Pacific regions, and engaging with diverse clients worldwide, shaped both technical expertise and professional perspective in profound ways. IBM's commitment to education extended beyond internal training, supporting academic pursuits through partnerships with institutions like Università degli Studi Roma Tre for advanced studies in IT Governance.
+The journey represents more than certifications and technical achievements; it embodies the invaluable mentorship, collaboration, and knowledge-sharing that defined IBM's culture. Working alongside talented colleagues across Europe, the Middle East, Africa, and Asia-Pacific regions, and engaging with diverse clients worldwide, shaped both technical perspective and professional understanding in ways that proved timeless, even as the technologies themselves evolved beyond recognition.
 
-This documentation serves as a grateful acknowledgment of IBM's investment in professional development—35 internal courses, 23 professional certifications, 4 external industry certifications, a Master's degree through university collaboration, technical publications, and countless learning experiences. Each certification earned, each course completed, and each project delivered represents the support of managers who encouraged growth, colleagues who shared knowledge, and customers who trusted expertise.
+IBM's commitment to education extended beyond internal training, supporting academic pursuits through partnerships with institutions like Università degli Studi Roma Tre for advanced studies in IT Governance. This documentation serves as grateful acknowledgment of that investment—35 internal courses, 23 professional certifications, 4 external industry certifications, a Master's degree through university collaboration, technical publications, and countless learning experiences. Each certification earned, each course completed, and each project delivered represents the support of managers who encouraged growth, colleagues who shared knowledge, and customers who trusted expertise.
 
 To the mentors, teammates, and clients encountered throughout this international journey: your guidance, patience, and collaboration made this progression possible. This repository is a tribute to those experiences and the people who made them meaningful.
 

@@ -31,7 +31,7 @@
 
 ## Academic-Industry Partnership
 
-The **Master in Governo dei Sistemi Informativi** (Master in IT Governance: Development, Management, and Monitoring) represented a strategic collaboration between **IBM Italia**, **Formit Servizi**, and **Università degli Studi Roma Tre** (Roma Tre University). This second-level master's program was designed to bridge academic knowledge with industry practice, preparing IT professionals for leadership roles in the evolving landscape of information systems governance.
+The **Master in Governo dei Sistemi Informativi** (Master in IT Governance) was a second-level master's program developed through collaboration between **IBM Italia**, **Formit Servizi**, and **Università degli Studi Roma Tre**. The program aimed to combine academic rigor with industry practice, bringing IT professionals and business leaders into dialogue around information systems governance.
 
 **Program Period:** 2009-2010 (Second Edition)  
 **Completion Date:** April 15, 2011  
@@ -42,26 +42,21 @@ The **Master in Governo dei Sistemi Informativi** (Master in IT Governance: Deve
 
 ## Program Overview
 
-### Educational Objectives
+### Curriculum Focus
 
-The Master's program aimed to develop specialized professionals capable of managing complex IT organizations through strategic and consultative approaches in both corporate and public administration contexts. The curriculum focused on creating IT leaders with multi-dimensional expertise:
+The Master's program covered:
 
-#### Technical Dimension
-Advanced capabilities in applying innovative solutions across critical business areas including:
-- **Service-Oriented Architecture (SOA)** implementation and governance
-- **Information Technology** infrastructure management and optimization
-- **Process engineering** with system architecture aligned to state-of-the-art "Service Oriented Architecture"
-- Security infrastructure design and implementation
-- Technology innovation assessment and adoption strategies
+#### Technical and Strategic Areas
+- Service-Oriented Architecture (SOA) principles and implementation
+- IT infrastructure management and design
+- Security architecture and implementation
+- Technology assessment and adoption
 
-#### Economic and Managerial Dimension  
-Strategic competencies in organizational leadership:
-- **IT Governance frameworks** for complex organizations leveraging modern technologies
-- **Service management** innovation and optimization
-- **Supplier relationship management** and vendor evaluation
-- **Contract monitoring** and compliance management
-- **Quantitative methodologies** for investment evaluation and cost-benefit analysis
-- ROI and business value assessment of IT initiatives
+#### Organizational and Managerial Areas
+- IT Governance frameworks for complex organizations
+- Service management practices and optimization
+- Vendor and supplier management
+- IT investment evaluation and business value assessment
 
 ---
 
@@ -98,59 +93,39 @@ Strategic competencies in organizational leadership:
 
 ## Curriculum Focus Areas
 
-### Core Competencies Developed
+### Topics Covered
 
-1. **Strategic IT Planning**
-   - Alignment of IT strategy with business objectives
-   - Enterprise architecture frameworks
-   - Digital transformation roadmaps
+1. **IT Governance and Strategy**
+   - Enterprise IT planning and alignment
+   - Governance frameworks and standards
 
-2. **Service Management and ITIL**
-   - IT Service Management (ITSM) best practices
-   - Service catalog design and implementation
-   - Incident, problem, and change management
+2. **Service Management**
+   - IT Service Management (ITSM) practices
+   - Service design and delivery
 
-3. **IT Governance Frameworks**
-   - COBIT (Control Objectives for Information and Related Technologies)
-   - IT compliance and audit practices
-   - Risk management and control frameworks
+3. **IT Architecture**
+   - Enterprise architecture principles
+   - Infrastructure design
 
-4. **Architecture and Infrastructure**
-   - Service-Oriented Architecture (SOA) principles
-   - Enterprise integration patterns
-   - Infrastructure optimization and consolidation
+4. **Management and Leadership**
+   - Project and portfolio management
+   - Vendor and risk management
 
-5. **Project and Portfolio Management**
-   - IT project governance
-   - Portfolio prioritization methodologies
-   - Agile and traditional project management approaches
-
-6. **Procurement and Vendor Management**
-   - IT sourcing strategies
-   - Contract negotiation and management
-   - Service Level Agreement (SLA) design and monitoring
+5. **Professional Skills**
+   - Strategic communication
+   - Business and financial analysis
 
 ---
 
-## IBM Italia's Role and Contribution
+## Program Partners
 
-### Industry Leadership
+### IBM Italia's Involvement
 
-IBM Italia served as a primary industry partner, contributing:
-
-- **Subject Matter Experts:** Senior IBM consultants and architects as guest lecturers
-- **Real-World Case Studies:** Enterprise IT governance scenarios from IBM client engagements
-- **Technology Insights:** Exposure to IBM's enterprise software portfolio (Tivoli, WebSphere, Information Management)
-- **Best Practices:** IBM's internal IT governance methodologies and frameworks
-- **Career Development:** Professional networking and mentorship opportunities
-
-### Strategic Context
-
-This collaboration aligned with IBM's broader commitment to:
-- **Professional Development:** Supporting continuous education in the IT community
-- **Academic Partnerships:** Bridging the gap between academic theory and industry practice
-- **Talent Development:** Cultivating future IT leaders familiar with enterprise technologies
-- **Knowledge Transfer:** Sharing decades of IBM's IT governance experience with emerging professionals
+IBM Italia participated as an industry partner, contributing:
+- Subject matter experts and guest lecturers
+- Real-world case studies and scenarios
+- Exposure to enterprise technology platforms
+- Professional networking opportunities
 
 ---
 
@@ -166,40 +141,15 @@ This collaboration aligned with IBM's broader commitment to:
 
 ### Thesis Work
 
-**Title:** [Final Thesis Document](./assets/files/master-itgov-final-thesis.pdf)
+The culminating thesis synthesized program learning with IT governance principles and practical organizational scenarios.
 
-The culminating thesis integrated academic research with practical application, demonstrating mastery of IT governance principles within real-world organizational contexts. The work synthesized:
-- Theoretical frameworks studied throughout the program
-- Industry best practices from IBM and partner organizations
-- Original analysis and recommendations for IT governance challenges
-- Application of quantitative methodologies to business scenarios
+**Thesis Document:** [Final Thesis](../../assets/files/certifications/master-itgov-final-thesis.pdf)
 
-### Completion and Recognition
+### Completion
 
 **Certification Date:** April 15, 2011  
-**Awarding Institution:** Università degli Studi Roma Tre  
-**Faculty:** Facoltà di Ingegneria (Faculty of Engineering)  
-**Program Title:** Master di II livello in Governo dei Sistemi Informativi
-
----
-
-## Academic Excellence and Industry Recognition
-
-### Program Distinction
-
-The Roma Tre Master program was recognized for:
-- **Academic Rigor:** Integration of computer science, information systems, and business management
-- **Industry Relevance:** Curriculum designed in collaboration with leading IT organizations
-- **Practical Application:** Balance of theoretical foundations with hands-on experience
-- **Professional Network:** Access to faculty and industry leaders in Italian IT community
-
-### Career Impact
-
-The Master's program provided:
-- **Advanced Credentials:** Recognized qualification for IT governance and management roles
-- **Specialized Knowledge:** Deep expertise in service-oriented architectures and IT governance frameworks
-- **Professional Network:** Connections with Roma Tre faculty, IBM professionals, and fellow students
-- **Career Advancement:** Foundation for strategic IT leadership positions
+**Institution:** Università degli Studi Roma Tre  
+**Degree:** Master di II livello in Governo dei Sistemi Informativi
 
 ---
 
@@ -222,4 +172,4 @@ The Master's program provided:
 
 ---
 
-*This Master's program was completed during IBM Italia tenure (2009-2011) as part of continuous professional development, supported by IBM's commitment to employee education and career advancement.*
+*This Master's program was completed during IBM Italia tenure (2009-2011). It represented a meaningful intersection of academic study and industry practice during that period.*
