@@ -8,7 +8,13 @@
 
 ---
 
-## ⚠️ Archived Status
+## IBM Redbooks Reference
+
+![IBM Redbooks Banner](../../assets/images/logos/ibm-redbooks-banner.jpg)
+
+*IBM Redbooks provide in-depth technical information and practical solutions for IT professionals.*
+
+---
 
 This IBM Redbooks publication documents Tivoli system management products and integration approaches from 2009-2010. The technology landscape has fundamentally transformed over the past 15 years. Tivoli and proprietary systems management solutions have been largely superseded by open-source monitoring tools (Prometheus, Grafana, ELK Stack), cloud-native observability platforms, and Kubernetes-based infrastructure. 
 
