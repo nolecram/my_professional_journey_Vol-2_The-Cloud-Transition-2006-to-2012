@@ -97,17 +97,13 @@ The `assets` folder is organized into subdirectories:
 
 ## About This Repository
 
-This collection preserves the professional journey through IBM across three continents and six transformative years (2006-2012). From IBM Italia in Milan, through IBM Middle East in Dubai, to IBM Australia in Sydney, each phase brought unique challenges, learning opportunities, and invaluable relationships.
-
-The repository includes:
+This archive documents:
 - **Academic Collaboration:** Master di II livello in IT Governance through IBM Italia and Università degli Studi Roma Tre partnership
 - **Technical Publications:** Blog posts and IBM Redbooks on enterprise infrastructure and cloud computing
 - **Professional Certifications:** 23 certifications across technical, sales, and professional domains
 - **Internal Development:** 35 courses spanning leadership, technology, and business skills
 - **OpenStack Contributions:** Community engagement during the emergence of open cloud platforms
-- **International Experience:** Work across EMEA, Middle East, Africa, and Asia-Pacific regions
-
-This archive honors the colleagues who mentored, the customers who trusted, and the organization that invested in continuous growth. It stands as a testament to IBM's commitment to professional development and the global community that made this journey meaningful.
+- **Geographic Scope:** Work across EMEA, Middle East, Africa, and Asia-Pacific regions
 
 ---
 
