@@ -127,6 +127,7 @@ The `assets` folder is organized into subdirectories for better organization:
 - `ibm-colleagues-photo-1.jpg` - IBM colleagues and team collaboration
 - `ibm-colleagues-photo-2.jpg` - IBM team members across international locations
 - `marco-celon-photo.jpg` - Author photo
+- `roma-tre-program-participants.jpg` - Master in IT Governance program participants and cohort
 
 **Architecture** (`assets/images/architecture/`)
 - `openstack-folsom-architecture.png` - OpenStack Folsom architecture diagram
@@ -135,6 +136,8 @@ The `assets` folder is organized into subdirectories for better organization:
 
 **Logos** (`assets/images/logos/`)
 - `roma-tre-university-logo.png` - Università degli Studi Roma Tre logo
+- `roma-tre-itgov-logo.jpg` - Master in IT Governance program logo
+- `roma-tre-favicon.png` - Roma Tre University digital identity
 - `thoughts-on-cloud-banner.png` - Thoughts on Cloud header image
 - `ibm-redbooks-banner.jpg` - IBM Redbooks header image
 

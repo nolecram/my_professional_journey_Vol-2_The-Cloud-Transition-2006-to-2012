@@ -13,7 +13,28 @@ partners: [IBM Italia, Formit Servizi]
 
 <div align="center">
 
-![Roma Tre University Logo](../../assets/images/logos/roma-tre-university-logo.png)
+### Academic Partnership & Program Identity
+
+<table style="border: none; padding: 20px;">
+<tr style="border: none;">
+<td width="25%" style="border: none; text-align: center; padding: 10px;">
+<img src="../../assets/images/logos/roma-tre-university-logo.png" alt="Roma Tre University" width="95%"><br>
+<em style="font-size: 0.9em;">Roma Tre University</em>
+</td>
+<td width="25%" style="border: none; text-align: center; padding: 10px;">
+<img src="../../assets/images/logos/roma-tre-itgov-logo.jpg" alt="Master IT Governance Logo" width="95%"><br>
+<em style="font-size: 0.9em;">Master Program</em>
+</td>
+<td width="25%" style="border: none; text-align: center; padding: 10px;">
+<img src="../../assets/images/colleagues/roma-tre-program-participants.jpg" alt="Program Participants" width="95%"><br>
+<em style="font-size: 0.9em;">Cohort & Collaboration</em>
+</td>
+<td width="25%" style="border: none; text-align: center; padding: 10px;">
+<img src="../../assets/images/logos/roma-tre-favicon.png" alt="Roma Tre Digital" width="95%"><br>
+<em style="font-size: 0.9em;">Institution Digital</em>
+</td>
+</tr>
+</table>
 
 </div>
 
