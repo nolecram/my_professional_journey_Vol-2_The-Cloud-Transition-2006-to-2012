@@ -1,4 +1,14 @@
-# My IBM Professional Journey
+# My Professional Journey: Vol. 2 — The Cloud Transition (2006-2012)
+
+**Part of a series documenting professional evolution across technological eras**
+
+| Volume | Era | Period | Repository |
+|--------|-----|--------|-----------|
+| **Vol. 1** | The Proprietary Era | 1999-2006 | [The-Proprietary-Era-1999-to-2006](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006) |
+| **Vol. 2** | The Cloud Transition | 2006-2012 | [The-Cloud-Transition-2006-to-2012](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012) |
+| **Vol. 3** | The Cloud-Native Era | 2012-onward | *Coming Soon* |
+
+---
 
 ## Why This Repository
 
@@ -167,6 +177,11 @@ The `assets` folder is organized into subdirectories for better organization:
 ## About This Repository
 
 This collection documents a six-year journey across three continents (2006-2012)—Rome, Dubai, and Melbourne. What started as on-premise infrastructure expertise evolved through the cloud computing transition, shaped by mentorship, collaboration, and the particular technical challenges of that era.
+
+**This is Volume 2 of a professional journey series exploring technological evolution across eras:**
+- **Vol. 1** ([The Proprietary Era, 1999-2006](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006)) - Foundation years with proprietary systems and traditional IT
+- **Vol. 2** (This repository) - The cloud transition period with IBM (2006-2012)
+- **Vol. 3** (Coming soon) - The cloud-native era and beyond
 
 Within these pages:
 - Academic partnership with Università degli Studi Roma Tre on IT Governance
