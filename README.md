@@ -1,12 +1,15 @@
 # My Professional Journey: Vol. 2 — The Cloud Transition (2006-2012)
 
-**Part of a series documenting professional evolution across technological eras**
+## About
+This Series
 
-| Volume | Era | Period | Repository |
-|--------|-----|--------|-----------|
-| **Vol. 1** | The Proprietary Era | 1999-2006 | [The-Proprietary-Era-1999-to-2006](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006) |
-| **Vol. 2** | The Cloud Transition | 2006-2012 | [The-Cloud-Transition-2006-to-2012](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012) |
-| **Vol. 3** | The Cloud-Native Era | 2012-onward | *Coming Soon* |
+This is **Volume 2** in a multi-part documentation of a professional
+journey spanning from 1999 to present. Each volume captures a distinct
+technological era and the principles that transcended it:
+
+- **Vol. 1 – The Proprietary Era (1999–2006)**: [The-Proprietary-Era-1999-to-2006](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006) - Foundation-building in proprietary systems (Rome, Italy)
+- **Vol. 2 – The Cloud Transition (2006–2012)** (This repository) - International growth and cloud computing emergence (Rome, Dubai, Melbourne)
+- **Vol. 3 – The Cloud-Native Era (2012–onward)**: Coming soon
 
 ---
 
@@ -174,23 +177,20 @@ The `assets` folder is organized into subdirectories for better organization:
 **Certifications** (`assets/files/certifications/`)
 - `master-itgov-final-thesis.pdf` - Master in IT Governance final thesis document
 
-## About This Repository
+## About
+This Repository
 
-This collection documents a six-year journey across three continents (2006-2012)—Rome, Dubai, and Melbourne. What started as on-premise infrastructure expertise evolved through the cloud computing transition, shaped by mentorship, collaboration, and the particular technical challenges of that era.
+This collection spans a six-year journey across three continents (2006-2012)—Rome, Dubai, and Melbourne—where on-premise infrastructure expertise evolved through the cloud computing transition at IBM.
 
-**This is Volume 2 of a professional journey series exploring technological evolution across eras:**
-- **Vol. 1** ([The Proprietary Era, 1999-2006](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006)) - Foundation years with proprietary systems and traditional IT
-- **Vol. 2** (This repository) - The cloud transition period with IBM (2006-2012)
-- **Vol. 3** (Coming soon) - The cloud-native era and beyond
+This archive honors the people who made those years meaningful—managers who invested time, colleagues who shared knowledge, customers who trusted expertise. It's a tribute to IBM's culture of continuous learning and the global teams that made this period foundational.
 
-Within these pages:
-- Academic partnership with Università degli Studi Roma Tre on IT Governance
-- Technical reflections published on OpenStack and cloud infrastructure
-- Certifications and training that reflected the learning priorities of that time
-- Participation in industry communities (ITSM, OpenStack conferences)
-- Professional development across technical, sales, and leadership domains
+---
 
-This archive honors the people who made the journey meaningful—managers who invested time, colleagues who shared knowledge, customers who trusted expertise. It's a small tribute to IBM's culture of continuous learning and the global teams that made those years valuable.
+## Previous Volume
+
+**[Vol. 1 – The Proprietary Era (1999–2006)](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006)**
+
+The professional journey begins with foundation-building years in Rome (1999-2006) across four companies (Atos, TeleAp, RSI Sistemi, Avaya), where entry-level technical work in systems integration evolved into increasing responsibility in enterprise solutions.
 
 ---
 
